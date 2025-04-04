@@ -35,11 +35,11 @@ This project analyzes the Yelp academic business dataset to gain insights into r
 - Clustered Las Vegas restaurants into 5 groups based on latitude and longitude.
 
 ### 4. **Map Visualizations of Clusters**
-- **Map 4**: Clustered restaurants in Las Vegas
+- **Map 3**: Clustered restaurants in Las Vegas
 
 ### 5. **Restaurant Recommendation System**
 - Recommends top restaurants from the same cluster as the user’s location.
-- **Maps 5–7**: Recommendations for 3 sample users based on coordinates
+- **Maps 4–6**: Recommendations for 3 sample users based on coordinates
 
 ## 📷 Embedded Maps (Screenshots)
 ### Map 1: All Restaurants with Ratings
