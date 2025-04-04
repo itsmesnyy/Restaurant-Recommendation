@@ -26,8 +26,7 @@ This project analyzes the Yelp academic business dataset to gain insights into r
 
 ### 2. **Visualizations**
 - **Map 1**: All restaurants on a scatter map (Plotly Mapbox)
-- **Map 2**: Top 20 restaurants by review count and star ratings
-- **Map 3**: Restaurants in Las Vegas (zoomed view)
+- **Map 2**: Restaurants in Las Vegas (zoomed view)
 - **Chart**: Countplot of star ratings using Seaborn
 
 ### 3. **Clustering with K-Means**
