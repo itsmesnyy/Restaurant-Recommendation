@@ -45,19 +45,19 @@ This project analyzes the Yelp academic business dataset to gain insights into r
 ### Map 1: All Restaurants with Ratings
 ![Map 1](RR_Images/Map_Image1.png)
 
-### Map 3: Restaurants in Las Vegas
+### Map 2: Restaurants in Las Vegas
 ![Map 3](RR_Images/Map_Image2.png)
 
-### Map 4: Clustered Restaurants in Las Vegas
+### Map 3: Clustered Restaurants in Las Vegas
 ![Map 4](RR_Images/Map_Image3.png)
 
-### Map 5: Recommendations for User 1
+### Map 4: Recommendations for User 1
 ![Map 5](RR_Images/Map_Image4.png)
 
-### Map 6: Recommendations for User 2
+### Map 5: Recommendations for User 2
 ![Map 6](RR_Images/Map_Image5.png)
 
-### Map 7: Recommendations for User 3
+### Map 6: Recommendations for User 3
 ![Map 7](RR_Images/Map_Image6.png)
 
 ## 📌 Recommendation Function Example
