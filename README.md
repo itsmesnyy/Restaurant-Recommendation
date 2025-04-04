@@ -56,9 +56,6 @@ This project analyzes the Yelp academic business dataset to gain insights into r
 ### Map 5: Recommendations for User 2
 ![Map 6](RR_Images/Map_Image5.png)
 
-### Map 6: Recommendations for User 3
-![Map 7](RR_Images/Map_Image6.png)
-
 ## 📌 Recommendation Function Example
 ```python
 def recommend_restaurants(df, longitude, latitude):
